@@ -1,1 +1,4 @@
-# akbank-bootcamp-case1
+# Akbank Web3 - Practicum
+
+## I selected JS case
+
