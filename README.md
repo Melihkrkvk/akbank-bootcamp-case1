@@ -2,3 +2,4 @@
 
 ## I selected JS case
 
+![case.png](case.png)
